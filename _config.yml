@@ -1,11 +1,11 @@
 # Site settings
 author: Rene Cocom
-title: 
+title: CLI_project_Rene
 header-img: img/home-bg.png
 email: fasnimo@gmail.com
 copyright_name: Rene Cocom
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CLI, Rene
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  fasnimo
