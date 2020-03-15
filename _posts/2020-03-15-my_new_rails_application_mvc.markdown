@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My New Rails Application: MVC"
-date:       2020-03-15 04:01:07 +0000
+date:       2020-03-15 00:01:08 -0400
 permalink:  my_new_rails_application_mvc
 ---
 
