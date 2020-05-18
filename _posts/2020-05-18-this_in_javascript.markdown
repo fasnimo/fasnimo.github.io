@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "This in JavaScript"
-date:       2020-05-18 15:50:57 +0000
+date:       2020-05-18 11:50:58 -0400
 permalink:  this_in_javascript
 ---
 
